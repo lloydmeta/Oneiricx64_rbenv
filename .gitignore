@@ -1,0 +1,14 @@
+.DS_Store
+log/*
+log/**/*
+tmp/**/*
+bin/*
+iso/*
+definitions/*
+vendor/gems/*
+!vendor/gems/cache/
+.vagrant*
+db/*.db
+*.box
+/cookbooks
+/tmp
